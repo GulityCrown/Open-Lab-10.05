@@ -13,7 +13,7 @@ namespace Open_Lab_10._04
         /// <summary>
         /// list of categories
         /// </summary>
-        static List<string> categories = new List<string>() { "detské", "romantické", "náučné", "sci-fi", "dobrodružné" };
+        public static List<string> categoryList = new List<string>() { "detské", "romantické", "náučné", "sci-fi", "dobrodružné" };
 
         private string title;
         private string category;
